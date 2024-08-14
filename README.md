@@ -16,7 +16,7 @@ organization. Highly passionate about building web applications and confident en
 About ME 😎
 </h2>
 <h2>
-<img src="https://img.freepik.com/premium-photo/sticker-girl-learning-coding-fundamental-creative-design-bold-line-cute-kawaii-st_655090-455242.jpg" width="500px" height="400px" align="right">
+<img src="https://img.freepik.com/premium-vector/coder-developer-concentrated-working-project-developing-programming-coding-technologies_569013-336.jpg" width="500px" height="400px" align="right">
 
 I'm a Developer and learner ⚡⚡
 </h2>
